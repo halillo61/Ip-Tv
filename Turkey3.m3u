@@ -114,7 +114,7 @@ http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="Belgesel & Yaşam",[42] TLC
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png",TRT Belgesel (Resmi)
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+http://169.45.89.106:1935/app/sky1delsh/playlist.m3u8
 
 #---------------------------------------------------
 # Grup: Sinema
