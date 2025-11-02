@@ -3,8 +3,8 @@
 #---------------------------------------------------
 # Grup: Ulusal
 #---------------------------------------------------
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png",TRT 1 (Resmi)
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="Ulusal",[2] KANAL D
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="Ulusal",[3] ATV
@@ -86,7 +86,7 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 # Grup: Spor
 #---------------------------------------------------
 #EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png",TRT Spor (Resmi)
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+http://portal.germanyservers.de:8000/live/1234/1234/5979.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwnrgFV/a-spor.png" group-title="Spor",[38] A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="Spor",[39] TV 8.5
@@ -95,12 +95,16 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ht-spor-buyuk.webp/275px-Ht-spor-buyuk.webp.png" group-title="Spor",[41] HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEINSPORTS 1
-https://live-freeshot.mark-clark.workers.dev/?ID=beINSPORTS1TR
-#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEINSPORTS 1
-http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
-#EXTINF:-1 Yedek1="https://217.30.11.74/e/6570.m3u8" Yedek2="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8" tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEINSPORTS 1
-http://origi-jw-5.ravenclaw-house.com:80/TR-BEINSPORT1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BricveSatrancTV.tr" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="Spor",Bric ve Satranc TV
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1,TR:BEINSPORTS 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/5964.m3u8
+#EXTINF:-1,TR:BEINSPORTS 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/5963.m3u8
+#EXTINF:-1,TR:BEINSPORTS 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/5958.m3u8
+#EXTINF:-1,TR:BEINSPORTS 4 HD
+http://portal.germanyservers.de:8000/live/1234/1234/5957.m3u8
 #EXTINF:-1 Yedek="https://serveranon1.online:8443/701/index.m3u8" Yedek2="https://sporligtv600.live/restrm/cek.m3u8?u=https://h0.b4c8d3e9f1a2b7c5d58.cfd/yayint24.m3u8&a=&aa=h0.b4c8d3e9f1a2b7c5d58.cfd" Yedek3="http://stalk.piccolo-tv.com/stream-live.php/video.m3u8?url=2621&line=country.m3u&user=bigtheory&pass=watchpiccolo-tv" tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEINSPORTS 1
 http://apx-me.com:8880/live/live:persian_share/Hs6guU9ziF/49218.ts
 
@@ -162,7 +166,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 # Grup: Yedekler (Sizin listenizdeki çalışan diğer linkler)
 #---------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Yedekler",[60] TRT 1 (Yedek)
-https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+http://95.174.71.114/TR-TRT1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="Yedekler",[61] KANAL D (Yedek)
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48855
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="Yedekler",[62] ATV (Yedek)
