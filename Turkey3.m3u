@@ -4,7 +4,7 @@
 # Grup: Ulusal
 #---------------------------------------------------
 #EXTINF:-1 group-title="Ulusal" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="Ulusal",[2] KANAL D
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="Ulusal",[3] ATV
