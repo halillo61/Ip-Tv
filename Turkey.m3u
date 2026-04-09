@@ -47,6 +47,9 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48853
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5FjLh2Z/cnbc-e.png" group-title="Ulusal",[22] CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8?tv=1
+#EXTM3U
+#EXTINF:-1,group-title="Ulusal",[23] Star TV
+https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web&ce=3
 
 #---------------------------------------------------
 # Grup: Haber
